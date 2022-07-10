@@ -22,7 +22,7 @@ https://www.trufflesuite.com/ganache
 
 ### Usage:
 1. Clone the repo and run npm install.  
-`git clone https://github.com/neha01/nft-demo.git && cd nft-demo && npm install`
+`git clone https://github.com/manupoonia78/NFT-Minting-Library.git && cd NFT-Minting-Library && npm install`
 
 2. Put image file that you want to convert into an NFT under assets folder.
 
